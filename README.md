@@ -1,3 +1,8 @@
 # Pr301Ass3
 
-Design Pattern
+Design Pattern - Kate Pham
+
+Inlcuded - Builder Pattern - Graph
+           Factory Pattern - FileHandler and Graph
+          
+           
